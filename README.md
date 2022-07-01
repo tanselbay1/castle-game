@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="#about">About</a> •
+  <a href="#what-we-learned-from-this-project">What We Learned From This Project</a> •
   <a href="#the-team">The Team</a>
 </p>
 
@@ -26,15 +27,15 @@ There was a forum given to everyone who wanted to participate, so that we could 
 
 ## Things We Learned From This Project
 
-+ Peer Review
++ Using pull requests to peer review code
 + Git branch workflow
 + Working with people in different time zones
 + Using Trello to organize a project and work with Agile(Kanban for this case) Methodology
 + Some of team members weren't active for personal reasons and we worked as a team to recover them
-+ Organizing tem voice meetings
-+ Planning and deciding game features
-+ Using EsLint and Prettier for keeping team's code style consistent and best practices
-+ ES6 Module(Reusable code blocks); splitting code for maintainability and readability
++ Setting up team meetings on discord
++ Planning and deciding game features(same like stand-up meetings)
++ Using ESLint and Prettier for keeping team's code style consistent and best practices
++ ES6 Module(Reusable code blocks); code separation for maintainability and readability
 + Using Webpack; dist, src folders
 
 
